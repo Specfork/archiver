@@ -3,6 +3,7 @@ specfork: 1
 name: "@specfork/archiver"
 summary: Desktop file archiver for Windows, macOS and Linux. Create, extract, list, test and update 7z, zip, tar, gzip, bzip2 and xz archives, with AES-256 and safe extraction.
 license: CC-BY-4.0
+tags: [desktop, files]
 derived_from:
   repo: https://github.com/ip7z/7zip
   commit: b88c6bc09339de32f7d18bbab900686b244f42ba
